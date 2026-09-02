@@ -1,4 +1,4 @@
-<img src="[https://drive.google.com/file/d/1TOaebb2B8LPBScqBFNJTslwEdZJt7cBn/view](https://drive.google.com/file/d/1TOaebb2B8LPBScqBFNJTslwEdZJt7cBn/view?usp=drive_link)"](https://drive.google.com/file/d/1TOaebb2B8LPBScqBFNJTslwEdZJt7cBn/view?usp=drive_link) width="100%" alt="Hridoy paul"/>
+<img src="https://drive.google.com/file/d/1TOaebb2B8LPBScqBFNJTslwEdZJt7cBn/view width="100%" alt="Hridoy paul"/>
 
 <br/>
 
