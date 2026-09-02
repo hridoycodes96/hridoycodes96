@@ -1,3 +1,14 @@
+<img src="./header.svg" width="100%" alt="Talha Talukdar banner"/>
+
+<br/>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Backend+%26+Database+Enthusiast;Exploring+Machine+Learning+%26+NLP;Software+Engineering+Internship+Candidate;Building+%26+Learning+Every+Day" alt="Typing SVG"/>
+
+<br/>
+
+
+
 <h1 align="center">Hi 👋, I'm Developer Hridoy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
