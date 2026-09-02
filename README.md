@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hridoy paul</h1>
+<h1 align="center">Hi 👋, I'm Developer Hridoy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/hridoycodes96](https://github.com/hridoycodes96)
+
+- 💬 Ask me about **React,javaScript**
+
+- 📫 How to reach me **hridoy.kumar.paul.web@gmail.com**
+
+- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
