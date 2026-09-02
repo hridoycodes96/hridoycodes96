@@ -1,4 +1,4 @@
-<img src="./header.svg" width="100%" alt="Talha Talukdar banner"/>
+<img src="https://drive.google.com/file/d/1TOaebb2B8LPBScqBFNJTslwEdZJt7cBn/view" width="100%" alt="Hridoy paul"/>
 
 <br/>
 
