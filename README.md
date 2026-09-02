@@ -1,4 +1,4 @@
-<img src="./banner.png" width="100%" alt="Talha Talukdar banner">
+<img src="./banner.png" width="100%" alt="Hridoy paul">
 
 <br/>
 
