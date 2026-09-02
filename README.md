@@ -1,8 +1,4 @@
-<img
-  src="https://drive.google.com/uc?export=view&id=1TOaebb2B8LPBScqBFN0Ts1wEDzJT7cBn"
-  width="100%"
-  alt="Talha Talukdar banner"
-/>
+<img src="./banner.png" width="100%" alt="Talha Talukdar banner">
 
 <br/>
 
